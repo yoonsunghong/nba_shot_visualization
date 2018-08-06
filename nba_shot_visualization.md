@@ -17,7 +17,9 @@ For those who may not watch basketball everyday, some of these implemented strat
 
 > First, when defending, it is generally believed that a tighter defense(i.e. closer distance between the defender and the attacker with the ball) leads to lower shooting percentage. This is statistically relevant, particularly for shots with longer shot distance (dunks or layups, which have barely any shot distance, tend to have higher shooting percentage than jump shots with longer shot distances, so comparing the 'really short-distance' shots to jump shots would be unfair). TLDR: in general, closer the defender is to you, the lower your shot percentage will be. You can read more about these statistical studies [here](https://blog.nycdatascience.com/student-works/r-shiny/investigating-nba-shot-data/).
 > Second, when attacking, pick&roll/screens are typical offensive strategies used by a point guard (to generalize). It is a situation where a teammate comes and stands in the way of the defender's path (but has to be standing still) so that the point guard can get past the defender. The easiest way to explain would be through a diagram: 
+
 ![](https://thebasketballsociety.files.wordpress.com/2015/06/paul.jpg?w=446&h=297).
+
 > In the case of the image above, the player numbered 32 is the one setting the screen/pick and roll play. This allows the point guard to either drive into the basket, take a 3 pointer, or take a jump shot closer to the basket. Other things we will discuss as we go along the analysis if needed.
 
 Preparation
